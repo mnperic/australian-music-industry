@@ -1,2 +1,2 @@
-# live-music-revenue
- An investigation of Australian live music revenue and profit/loss since March 2020
+# Australian Music Industry
+ A study of historical Australian music industry health and performance.
